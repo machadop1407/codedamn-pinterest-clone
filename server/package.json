@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.4.1",
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.14",
+    "graphql": "^15.5.1"
+  }
+}
